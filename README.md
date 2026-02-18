@@ -17,3 +17,6 @@ Favoritos:**
 ### Vias de contacto
 
 ### :zap: Ultimos commits
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:last_update-->
+
