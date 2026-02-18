@@ -18,5 +18,4 @@ Favoritos:**
 
 ### :zap: Ultimos commits
 <!--START_SECTION:activity-->
-
 <!--END_SECTION:activity-->
