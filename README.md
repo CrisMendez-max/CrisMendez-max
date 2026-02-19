@@ -16,6 +16,14 @@ Favoritos:**
 
 ### Vias de contacto
 
-### :zap: Ultimos commits
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+### :zap: Actividad reciente
+
+<!--START\_SECTION:activity-->
+
+<!--END\_SECTION:activity-->
+
+
+
+<!--RECENT\_ACTIVITY:start-->
+
+<!--RECENT\_ACTIVITY:last\_update-->
