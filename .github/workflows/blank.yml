@@ -2,14 +2,14 @@ name: Update README
 
 on:
   schedule:
-    - cron: "0 */12 * * *"  # Se ejecuta cada 12 horas
-  workflow_dispatch:        # Te permite ejecutarlo manualmente con un botón
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
-      contents: write       # Necesario para que la acción pueda actualizar el archivo
+      contents: write
     
     steps:
       - name: Checkout repo
