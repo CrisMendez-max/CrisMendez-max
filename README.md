@@ -19,10 +19,10 @@ Favoritos:**
 ### :zap: Actividad reciente
 
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed undefined commit(s) to [CrisMendez-max/miCuartoRepo](https://github.com/CrisMendez-max/miCuartoRepo)<br>
-2. 💪 Opened PR [#3](undefined) in [CrisMendez-max/miCuartoRepo](https://github.com/CrisMendez-max/miCuartoRepo)<br>
-3. ⬆️ Pushed undefined commit(s) to [CrisMendez-max/miCuartoRepo](https://github.com/CrisMendez-max/miCuartoRepo)<br>
+1. ⬆️ Pushed undefined commit(s) to [CrisMendez-max/miQuintoRepo](https://github.com/CrisMendez-max/miQuintoRepo)<br>
+2. ⬆️ Pushed undefined commit(s) to [CrisMendez-max/miCuartoRepo](https://github.com/CrisMendez-max/miCuartoRepo)<br>
+3. 💪 Opened PR [#3](undefined) in [CrisMendez-max/miCuartoRepo](https://github.com/CrisMendez-max/miCuartoRepo)<br>
 4. ⬆️ Pushed undefined commit(s) to [CrisMendez-max/miCuartoRepo](https://github.com/CrisMendez-max/miCuartoRepo)<br>
-5. 💪 Opened PR [#2](undefined) in [CrisMendez-max/miCuartoRepo](https://github.com/CrisMendez-max/miCuartoRepo)<br>
+5. ⬆️ Pushed undefined commit(s) to [CrisMendez-max/miCuartoRepo](https://github.com/CrisMendez-max/miCuartoRepo)<br>
 <!--RECENT_ACTIVITY:end-->
 
