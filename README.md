@@ -22,7 +22,5 @@ Favoritos:**
 1. ✌️ Released [v0.1.0](https://github.com/CrisMendez-max/miQuintoRepo/releases/tag/v0.1.0) in [CrisMendez-max/miQuintoRepo](https://github.com/CrisMendez-max/miQuintoRepo)<br>
 2. ✌️ Released [v0.1.0](https://github.com/CrisMendez-max/miQuintoRepo/releases/tag/v0.10) in [CrisMendez-max/miQuintoRepo](https://github.com/CrisMendez-max/miQuintoRepo)<br>
 3. ⬆️ Pushed undefined commit(s) to [CrisMendez-max/miQuintoRepo](https://github.com/CrisMendez-max/miQuintoRepo)<br>
-4. ⬆️ Pushed undefined commit(s) to [CrisMendez-max/miCuartoRepo](https://github.com/CrisMendez-max/miCuartoRepo)<br>
-5. 💪 Opened PR [#3](undefined) in [CrisMendez-max/miCuartoRepo](https://github.com/CrisMendez-max/miCuartoRepo)<br>
 <!--RECENT_ACTIVITY:end-->
 
